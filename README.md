@@ -1,5 +1,8 @@
-# SemanaOmnistack11 - Be The Hero - Ajude uma ONG.
-### Resultados das aulas sa semana OmniStack 11 elaborada pela RocketSeat:
+# SemanaOmnistack11
+
+### Resultados da semana OmniStack 11 - RocketSeat.
+
+#### Be The Hero - Ajude uma ONG:
 
   - API utilizando node.js com SQLite.
   - FrontEnd utilizando ReactJS, comunicação com a API estabelecida.
